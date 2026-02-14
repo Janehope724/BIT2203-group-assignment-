@@ -10,7 +10,7 @@ We have provided separate code files for each classification type:
 
 **1. Linear Data Structures**
  
-**Static (Array)**: Located in array_static.py. Used for fixed datasets.
+**Static (Array)**: Located in data management,static array c language.c. Used for fixed datasets.
 
 **Dynamic (Linked List)**: Located in linked_list_dynamic.py. Used for memory flexibility.
 
