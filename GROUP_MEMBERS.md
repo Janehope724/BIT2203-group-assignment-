@@ -17,6 +17,7 @@ This file lists all members of the group along with their admission numbers.
 |ERIC  MAKAU                  |BSCCS/2024/57153|
 |TELVIN GICHOHI               |BSCCS/2025/58724|
 |MAJOK  DIING                 |BSCCS/2025/62224|
+|JOSHUA ELIUD                 |BBIT/2025/40250|
 ---
 
 
