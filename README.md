@@ -16,13 +16,13 @@ We have provided separate code files for each classification type:
 
 **Dynamic (Stack)**: Located in stack data structure.c. Used for LIFO operations.
 
-**Dynamic (Queue)**: Located in queue_dynamic.py. Used for FIFO operations.
+**Dynamic (Queue)**: Located in queue dynamic.py. Used for FIFO operations.
 
 **2. Non-Linear Data Structures**
 
-**Tree:** Located in tree_nonlinear.py. Used for hierarchical data.
+**Tree:** Located in tree nonlinear.py. Used for hierarchical data.
 
-**Graph**: Located in graph_nonlinear.py. Used for interconnected networks.
+**Graph**: Located in graph nonlinear.py. Used for interconnected networks.
 
 **Research: Applications & Reasons**
 
